@@ -1,5 +1,5 @@
 # A_Helping_Hand
-#Screenshots
+# Screenshots
 
 <img width="959" alt="Screenshot 2023-04-06 104419" src="https://user-images.githubusercontent.com/122734275/230278670-a26fef11-f375-42fd-aeef-00973dd27576.png">
 
@@ -9,8 +9,7 @@
 
 <img width="958" alt="Screenshot 2023-04-06 104522" src="https://user-images.githubusercontent.com/122734275/230278716-a6c6c028-7986-4f8f-8027-6aca05f371d9.png">
 
-Community()
-Real Time Comment System(<img width="955" alt="Screenshot 2023-04-06 104742" src="https://user-images.githubusercontent.com/122734275/230278757-45a2e2e7-34e1-4b8a-8ac8-a6d81cfadd94.png">
+<img width="955" alt="Screenshot 2023-04-06 104742" src="https://user-images.githubusercontent.com/122734275/230278757-45a2e2e7-34e1-4b8a-8ac8-a6d81cfadd94.png">
 
 
 # Steps to run locally
