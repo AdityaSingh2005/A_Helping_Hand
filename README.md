@@ -1,4 +1,4 @@
-# NSUT-REPO
+# A_Helping_Hand
 #Screenshots
 ![homescreen](<img width="959" alt="Screenshot 2023-04-06 104419" src="https://user-images.githubusercontent.com/122734275/230278670-a26fef11-f375-42fd-aeef-00973dd27576.png">
 ![Care](<img width="924" alt="Screenshot 2023-04-06 104451" src="https://user-images.githubusercontent.com/122734275/230278682-b9349c85-f584-4a48-b64b-9ad52ac6c3c4.png">
@@ -26,8 +26,8 @@
 # Contributors
 • Chetna - Frontend Developer and Designer
 
-•Aman mittal - Frontend&backendDeveloper
+•Aman mittal - Frontend & backendDeveloper
 
-•Akshay Kumar Sharma - Frontend&backend Developer
+•Akshay Kumar Sharma - Frontend & backend Developer
 
-•Aditya Pratap- Backend&frontend Developer
+•Aditya Pratap Singh- Backend &f rontend Developer
