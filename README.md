@@ -23,10 +23,10 @@
 
 
 # Contributors
-• Chetna - Frontend Developer and Designer
+• Chetna Utreja - Frontend Developer and Designer
 
 • Aman mittal - Frontend & Backend Developer
 
 • Akshay Kumar Sharma - Frontend & Backend Developer
 
-• Aditya Pratap Singh- Backend & Frontend Developer
+• Aditya Pratap Singh - Backend & Frontend Developer
