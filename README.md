@@ -1,5 +1,4 @@
 # A_Helping_Hand
-# Screenshots
 
 <img width="959" alt="Screenshot 2023-04-06 104419" src="https://user-images.githubusercontent.com/122734275/230278670-a26fef11-f375-42fd-aeef-00973dd27576.png">
 
